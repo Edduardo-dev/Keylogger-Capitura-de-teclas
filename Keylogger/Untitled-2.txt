@@ -1,0 +1,9 @@
+Quero tudo funcinando sem nenhum sinal, deixando tudo sem ser percebido.
+quero enviar os dados coletados para o atacante, usando o ftp
+
+
+Quero capturar as teclas fechando o termnial, sem nada rodando, mas tudo que eu digito ser capturado, quero criar uma conta de email para teste. CyberSecurity
+
+Criando um novo projeto
+
+testando o codigo eheehehheeh

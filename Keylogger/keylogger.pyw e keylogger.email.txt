@@ -1,0 +1,4 @@
+1- Vai ficar em execução em segundo plano?
+2- Toda vez que o usuario digitar uma tecla, o programa vai capturar essa tecla.
+3- O que for digitado, será gravado em um arquivo de .txt.
+4-  O arquivo vai mostrar tudo o que foi digitado, de forma sequencial.
